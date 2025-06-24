@@ -1,0 +1,47 @@
+Project Summary: Trader Behavior vs Bitcoin Market Sentiment
+
+This project analyzes the relationship between market sentiment and trader behavior by merging two datasets:
+
+     1)Historical trading data from Hyperliquid (over 200K trades)
+
+     2)Bitcoin Fear & Greed Index (daily sentiment classification)
+
+ Objective
+
+To uncover how trader performance and decision-making patterns change depending on market sentiment, and to generate actionable insights that can drive smarter trading strategies in Web3 environments.
+
+Key Findings
+
+1️⃣ Trader Profitability is Sentiment-Driven
+
+    Traders are most profitable during "Greed" and "Extreme Greed" periods, reflecting stronger market conditions and confident strategies.
+
+    "Extreme Fear" periods lead to erratic and negative PnL, showing the risks of trading in emotionally distressed markets.
+
+2️⃣ Buy/Sell Behavior Aligns with Emotion
+
+    Buy trades dominate in bullish sentiments (Greed), suggesting entry behavior during optimism.
+
+    Sell trades increase in Fear phases, indicating exit strategies, hedging, or panic selling.
+
+3️⃣ Asset Preference Shifts with Sentiment
+
+    Core assets (BTC, ETH) are traded consistently across all sentiments.
+
+    Speculative coins are favored during Greed phases, showing risk-on behavior as sentiment improves.
+
+4️⃣ Volume and Activity Respond to Sentiment
+
+    Trade volume is highest during Neutral and Greed, showing that market participation correlates with emotional stability or confidence.
+
+    Activity drops during Extreme Fear, likely due to risk aversion or indecision.
+
+5️⃣ PnL Trends Over Time Reflect Emotional Cycles
+
+    Daily average PnL lines show clear gains during sustained Greed, while Fear phases cluster around losses.
+
+    This suggests that timing trades based on sentiment trends can improve performance and manage risk.
+
+ Conclusion
+
+This analysis demonstrates that market sentiment — quantified through the Fear & Greed Index — plays a pivotal role in shaping trader behavior across profitability, strategy, and risk-taking. Traders tend to act in emotionally consistent ways, and understanding these patterns can enhance both individual strategies and algorithmic decision systems in crypto markets.
