@@ -1,0 +1,14 @@
+---
+
+### 📦 `requirements.txt`
+
+These are the basic packages you used:
+
+```txt
+pandas==1.5.3
+scikit-learn==1.2.2
+matplotlib
+seaborn
+scikit-learn
+joblib
+jupyter
